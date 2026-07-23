@@ -158,11 +158,10 @@ My journey combines both software and hardware, and I love building projects tha
 ---
 ### 📈 GitHub Statistics
 
-### 📈 GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ks20220914-commits&show_icons=true&theme=default&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ks20220914-commits&layout=compact&theme=default&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ks20220914commits&layout=compact&theme=default&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
