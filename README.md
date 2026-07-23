@@ -156,12 +156,24 @@ My journey combines both software and hardware, and I love building projects tha
 - Personal Portfolio Website – HTML5, CSS3, Responsive Design
 
 ---
-
-### 📈 GitHub Stats
+### 📊 Skills Overview (Circular Progress)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ks20220914-commits&show_icons=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ks20220914-commits&layout=compact" width="48%" />
+  <img src="https://progress-bar.dev/95/?title=Python&color=3776AB&width=150" />
+  <img src="https://progress-bar.dev/88/?title=C%2B%2B&color=00599C&width=150" />
+  <img src="https://progress-bar.dev/85/?title=MATLAB&color=0076A8&width=150" />
+</p>
+
+<p align="center">
+  <img src="https://progress-bar.dev/92/?title=CCNA&color=1BA0D6&width=150" />
+  <img src="https://progress-bar.dev/90/?title=IoT&color=FF6F00&width=150" />
+  <img src="https://progress-bar.dev/88/?title=Data%20Analysis&color=2ECC71&width=150" />
+</p>
+
+<p align="center">
+  <img src="https://progress-bar.dev/85/?title=OOP%20%26%20DSA&color=9B59B6&width=150" />
+  <img src="https://progress-bar.dev/82/?title=Cloud&color=4285F4&width=150" />
+  <img src="https://progress-bar.dev/80/?title=AI%20%26%20ML&color=F7931E&width=150" />
 </p>
 
 ---
