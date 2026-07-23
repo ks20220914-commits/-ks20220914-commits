@@ -172,29 +172,30 @@ My journey combines both software and hardware, and I love building projects tha
 
 ---
 ### 📊 GitHub Statistics
-### 📊 GitHub Statistics
 
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/Total%20Repositories-0-blue?style=for-the-badge&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/📁%20Repositories-0-181717?style=for-the-badge&logo=github" />
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Stars-0-yellow?style=for-the-badge&logo=github&logoColor=white" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Forks-0-green?style=for-the-badge&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/⭐%20Stars-0-ffb400?style=for-the-badge&logo=github" />
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/Followers-0-purple?style=for-the-badge&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/🍴%20Forks-0-00c853?style=for-the-badge&logo=github" />
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Following-0-red?style=for-the-badge&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/👥%20Followers-0-7c3aed?style=for-the-badge&logo=github" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/👀%20Following-0-ef4444?style=for-the-badge&logo=github" />
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Profile%20Views-0-orange?style=for-the-badge&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/👁️%20Views-0-f97316?style=for-the-badge&logo=github" />
     </td>
   </tr>
 </table>
