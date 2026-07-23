@@ -172,19 +172,32 @@ My journey combines both software and hardware, and I love building projects tha
 
 ---
 ### 📊 GitHub Statistics
+### 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ks20220914-commits&show_icons=true&theme=default" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ks20220914-commits&layout=compact&theme=default" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ks20220914-commits&theme=default" width="70%" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ks20220914-commits&color=blue" alt="Profile Views" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Total%20Repositories-0-blue?style=for-the-badge&logo=github&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Stars-0-yellow?style=for-the-badge&logo=github&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Forks-0-green?style=for-the-badge&logo=github&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Followers-0-purple?style=for-the-badge&logo=github&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Following-0-red?style=for-the-badge&logo=github&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Profile%20Views-0-orange?style=for-the-badge&logo=github&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ### 🌟 What Makes Me Different
 
