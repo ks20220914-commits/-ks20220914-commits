@@ -156,21 +156,14 @@ My journey combines both software and hardware, and I love building projects tha
 - Personal Portfolio Website – HTML5, CSS3, Responsive Design
 
 ---
-### 📈 GitHub Statistics
 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ks20220914-commits&show_icons=true&theme=default&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ks20220914commits&layout=compact&theme=default&hide_border=true" width="48%" />
-</p>
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ks20220914-commits&theme=default&hide_border=true" width="70%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ks20220914-commits&show_icons=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ks20220914-commits&layout=compact" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ks20220914-commits&color=blue&style=flat-square" alt="Profile Views" />
-</p>
 ---
 
 ### 🏆 Certifications
