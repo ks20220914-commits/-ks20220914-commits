@@ -176,7 +176,7 @@ My journey combines both software and hardware, and I love building projects tha
   <img src="https://progress-bar.dev/80/?title=AI%20%26%20ML&color=F7931E&width=150" />
 </p>
 
----
+----
 
 ### 🏆 Certifications
 
