@@ -159,15 +159,15 @@ My journey combines both software and hardware, and I love building projects tha
 
 ### 📈 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ks20220914-commits&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ks20220914-commits&layout=compact&theme=radical" width="48%" />
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ks20220914-commits&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=ff6b6b&icon_color=ffd93d&text_color=6bcb77&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ks20220914-commits&layout=compact&hide_border=true&title_color=ff6b6b&text_color=6bcb77&bg_color=0d1117"/>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ks20220914-commits&theme=radical" width="70%" />
-</p>
-
+<div align="center">
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=ks20220914-commits&hide_border=true&stroke=ff6b6b&background=0d1117&ring=ffd93d&fire=ff6b6b&currStreakNum=6bcb77&sideNums=6bcb77&currStreakLabel=ffd93d&sideLabels=ffd93d&dates=ffd93d"/>
+  <img height="150em" src="https://github-profile-trophy.vercel.app/?username=ks20220914-commits&theme=onedark&no-frame=true&row=2&column=4"/>
+</div>
 ---
 
 ### 🏆 Certifications
