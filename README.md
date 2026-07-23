@@ -1,141 +1,201 @@
 <h1 align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
-  Welcome to Kyrillos Saeed's Profile!
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="35"/>
+  Welcome to My GitHub Profile!
 </h1>
 
 <p align="center">
-  <b>🚀 Electronics & Communication Engineering Student | Data Scientist | Network Engineer</b><br/>
-  <i>📍 Cairo, Egypt</i>
+  <b>Kyrillos Saeed Milad</b><br/>
+  <i>Communications Engineering Student | Data Scientist | IoT & Networking Enthusiast</i>
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Egypt-Cairo-0077B5?style=for-the-badge&logo=google-maps&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Age-21-ff69b4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/English-Fluent-00BFFF?style=for-the-badge&logo=googletranslate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Student-Communications%20Engineering-brightgreen?style=for-the-badge"/>
+</p>
+
+---
+
+### 👋 About Me
+
+Hello! I'm Kyrillos Saeed Milad, a passionate Communications Engineering student from Cairo, Egypt.  
+I have a strong interest in Data Science, Artificial Intelligence, Networking, and Embedded Systems.
+
+My journey combines both software and hardware, and I love building projects that solve real-world problems. I'm a quick learner with sharp problem-solving skills and always eager to expand my knowledge.
+
+---
+
+### 🎓 Education & Training
+
+- 🏫 Communications Engineering Student – Cairo, Egypt
+- 🎯 DEPI Trainee – Data Science & AI Track
+- 🌐 CCNA Certified – Cisco Networking Academy
+- 🤖 Cisco Network Automation – Cisco Academy
+- ☁️ Cloud Computing – Menara Training
+- 💼 Soft Skills & Freelance Skills – Certified
+
+---
+
+### 🛠️ Technical Skills
+
+#### 💻 Programming Languages
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img alt="MATLAB" src="https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+</p>
+
+#### 🧠 Core Concepts
+<p>
+  <img alt="OOP" src="https://img.shields.io/badge/-OOP-9B59B6?style=flat-square&logo=object-oriented&logoColor=white" />
+  <img alt="Data Structures" src="https://img.shields.io/badge/-Data%20Structures-2ECC71?style=flat-square&logo=datastructures&logoColor=white" />
+  <img alt="Data Analysis" src="https://img.shields.io/badge/-Data%20Analysis-3498DB?style=flat-square&logo=dataanalysis&logoColor=white" />
+  <img alt="Algorithms" src="https://img.shields.io/badge/-Algorithms-F39C12?style=flat-square&logo=algorithms&logoColor=white" />
+</p>
+
+#### 🌐 Networking & Cloud
+<p>
+  <img alt="CCNA" src="https://img.shields.io/badge/-CCNA-1BA0D6?style=flat-square&logo=cisco&logoColor=white" />
+  <img alt="Cisco" src="https://img.shields.io/badge/-Cisco-1BA0D6?style=flat-square&logo=cisco&logoColor=white" />
+  <img alt="Cloud Computing" src="https://img.shields.io/badge/-Cloud%20Computing-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
+</p>
+
+#### 📊 Data Science & AI
+<p>
+  <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img alt="Scikit-Learn" src="https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+</p>
+
+#### 🛠️ Tools & Platforms
+<p>
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <img alt="Excel" src="https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
+  <img alt="PowerPoint" src="https://img.shields.io/badge/-PowerPoint-B7472A?style=flat-square&logo=microsoft-powerpoint&logoColor=white" />
+  <img alt="Word" src="https://img.shields.io/badge/-Word-2B579A?style=flat-square&logo=microsoft-word&logoColor=white" />
+</p>
+
+---
+
+### 📊 Skills Overview
+
+| Skill Area | Level |
+|------------|-------|
+| Python Programming | ████████████████████ 85% |
+| C++ Programming | ██████████████████ 75% |
+| MATLAB | ████████████████ 70% |
+| Networking (CCNA) | ████████████████████ 90% |
+| IoT & Embedded Systems | ████████████████████ 85% |
+| Data Analysis | ██████████████████ 80% |
+| OOP & Data Structures | ██████████████████ 75% |
+| Cloud Computing | ████████████████ 65% |
+| AI & Machine Learning | ████████████████ 65% |
+
+---
+
+### 🚀 Projects I've Built
+
+#### 🤖 AI & Data Science
+- Weather Prediction Model – Python, Machine Learning, Scikit-Learn
+- Student Performance Analyzer – Data Analysis, Pandas, Visualization
+- Data Cleaning & Preprocessing Pipelines – Python, Pandas, NumPy
+
+#### 🌐 Networking
+- Cisco Router/Switch Automation Scripts – Python, Netmiko, SSH
+- Network Traffic Analyzer – Python, Wireshark, Packet Analysis
+- CCNA Lab Simulations – Cisco Packet Tracer
+
+#### 💡 IoT & Embedded Systems
+- Smart Home Automation – Arduino, Sensors, IoT Protocols
+- Temperature Monitoring System – Microcontrollers, C++, MATLAB
+- Electronic Circuit Projects – Microcontrollers, Embedded C
+
+#### 💻 Programming
+- Student Management System – C++, OOP, File Handling
+- Data Structures Library – C++, Implementation of Lists, Stacks, Queues, Trees
+- Personal Portfolio Website – HTML5, CSS3, Responsive Design
+
+---
+
+### 📈 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ks20220914-commits&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ks20220914-commits&layout=compact&theme=radical" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ks20220914-commits&theme=radical" width="70%" />
+</p>
+
+---
+
+### 🏆 Certifications
+
+- ✅ CCNA – Cisco Networking Academy
+- ✅ Cisco Network Automation – Cisco Academy
+- ✅ DEPI Data Science & AI Track – DEPI Egypt
+- ✅ Cloud Computing – Menara Training
+- ✅ Soft Skills – Certified
+- ✅ Freelance Skills – Certified
+- ✅ Advanced Excel, PowerPoint, Word – Certified
+
+---
+
+### 🌟 What Makes Me Different
+
+- 🧠 Quick Learner – I adapt fast to new technologies
+- 💡 Creative Problem Solver – I love finding innovative solutions
+- 🔥 Passionate – I code, build, and learn every day
+- 🤝 Team Player – I work well in collaborative environments
+- 🇬🇧 Fluent in English – Strong communication skills
+
+---
+
+### 🔗 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kero-saeed-756b06371" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://github.com/ks20220914-commits" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://github.com/your-username">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="mailto:kyrillossaeed@gmail.com" target="_blank">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+### 💬 Favorite Quote
 
-I'm Kyrillos Saeed Milad, an Electronics & Communication Engineering student with a strong passion for:
-- Data Science & AI (DEPI scholarship graduate)
-- Networking (CCNA, Cisco automation, routers & switches)
-- Mobile Networks (2G, 3G, 4G, 5G) 📶
-- IoT & Embedded Systems
-- Software Development (Python, C++, MATLAB, OOP, Data Structures)
-- Data Analysis & Visualization
-- Cloud Computing (Manara training)
-- Linux & Automation 🐧
-- Freelancing & Soft Skills
-
-I'm a quick learner with sharp intuition, always eager to build real-world solutions.
+> *"The only way to do great work is to love what you do."* – Steve Jobs
 
 ---
 
-## 🛠️ Tech Stack & Skills
-
-### 📶 Mobile Networks
-![2G](https://img.shields.io/badge/2G-0077B5?style=for-the-badge&logo=telegram&logoColor=white)
-![3G](https://img.shields.io/badge/3G-00599C?style=for-the-badge&logo=telegram&logoColor=white)
-![4G](https://img.shields.io/badge/4G-00A3E0?style=for-the-badge&logo=telegram&logoColor=white)
-![5G](https://img.shields.io/badge/5G-FF6600?style=for-the-badge&logo=telegram&logoColor=white)
-
-### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 📊 Data Science & Analysis
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-### 🌐 Networking & IoT
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![Routing & Switching](https://img.shields.io/badge/Routing_&_Switching-0077B5?style=for-the-badge&logo=cisco&logoColor=white)
-![Network Automation](https://img.shields.io/badge/Network_Automation-FF6C37?style=for-the-badge&logo=ansible&logoColor=white)
-
-### 🐧 Linux & Cloud
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 📈 Skill Levels (Radar Chart Style)
-| Skill Area | Proficiency |
-|------------|-------------|
-| Python | ██████████ 90% |
-| C++ / OOP | █████████░ 85% |
-| Data Analysis | ████████░░ 80% |
-| Networking (CCNA) | █████████░ 85% |
-| Routing & Switching | █████████░ 85% |
-| Network Automation | ████████░░ 75% |
-| IoT & Embedded | ████████░░ 75% |
-| MATLAB | ███████░░░ 70% |
-| Cloud Computing | ██████░░░░ 65% |
-| HTML & CSS | ████████░░ 80% |
-| Data Structures | ████████░░ 80% |
-| Linux | ████████░░ 75% |
-| Mobile Networks (2G-5G) | █████████░ 85% |
-
----
-
-## 🎓 Certifications & Training
-
-- ✅ CCNA – Cisco  
-- ✅ Mobile Package – Networking Track  
-- ✅ 2G, 3G, 4G, 5G Networks – Telecommunications  
-- ✅ Data Science & AI – DEPI Scholarship  
-- ✅ Cloud Computing – Manara  
-- ✅ Linux Administration  
-- ✅ Routing & Switching – Cisco  
-- ✅ Network Automation  
-- ✅ Freelancing & Soft Skills – Multiple Certificates  
-
----
-
-## 🧩 Projects
-
-> *Here you can list your projects with links to GitHub repos or live demos*
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🔐 Smart Home IoT | Home automation using Arduino & sensors | C++, IoT, MQTT |
-| 📡 Network Simulation | Configured routers/switches with automation | Cisco, Python |
-| 📊 Data Analysis Dashboard | Visualized dataset with insights | Python, Pandas, Power BI |
-| 🤖 AI Model Deployment | Deployed ML model with Flask API | Python, Scikit-Learn |
-| 🌐 5G Network Simulation | Simulated 5G network parameters | MATLAB, LTE Toolbox |
-
----
-
-## 📫 Connect with Me
-
-- LinkedIn: [Kyrillos Saeed](https://www.linkedin.com/in/kero-saeed-756b06371)  
-- GitHub: [YourUsername](https://github.com/your-username)  
-- Email: your-email@example.com  
+### 🎯 Current Goals
+- 📚 Master Data Science & Machine Learning
+- 🌐 Contribute to Open Source Projects
+- 🤖 Build Advanced AI Applications
+- 📊 Become a Professional Data Scientist
 
 ---
 
 <p align="center">
-  <i>“Always learning, always building.”</i> 🚀
+  <i>⭐️ Feel free to explore my repositories, fork, star, and connect!</i><br/>
+  <b>Always learning, always building.</b> 🚀
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ks20220914-commits&color=blueviolet&style=flat-square" />
 </p>
+
 
 
