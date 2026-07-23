@@ -34,6 +34,7 @@ My journey combines both software and hardware, and I love building projects tha
 - 🤖 Cisco Network Automation – Cisco Academy
 - ☁️ Cloud Computing – Menara Training
 - 💼 Soft Skills & Freelance Skills – Certified
+- 📱 Mobile Package (2G, 3G, 4G, 5G) – Netova Training
 
 ---
 
@@ -56,10 +57,11 @@ My journey combines both software and hardware, and I love building projects tha
   <img alt="Algorithms" src="https://img.shields.io/badge/-Algorithms-F39C12?style=flat-square&logo=algorithms&logoColor=white" />
 </p>
 
-#### 🌐 Networking & Cloud
+#### 🌐 Networking & Cloud & Mobile comm
 <p>
   <img alt="CCNA" src="https://img.shields.io/badge/-CCNA-1BA0D6?style=flat-square&logo=cisco&logoColor=white" />
   <img alt="Cisco" src="https://img.shields.io/badge/-Cisco-1BA0D6?style=flat-square&logo=cisco&logoColor=white" />
+  <img alt="Mobile Package (2G,3G,4G,5G)" src="https://img.shields.io/badge/-Mobile%20Package%20(2G%2F3G%2F4G%2F5G)-FF6F00?style=flat-square&logo=telekom&logoColor=white" />
   <img alt="Cloud Computing" src="https://img.shields.io/badge/-Cloud%20Computing-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
 </p>
 
@@ -97,8 +99,9 @@ My journey combines both software and hardware, and I love building projects tha
       <td align="center">
         <img src="https://img.shields.io/badge/MATLAB-85%25-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
       </td>
-    </tr>
-    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Mobile%20Package%20(2G%2F3G%2F4G%2F5G)-90%25-FF6F00?style=for-the-badge&logo=telekom&logoColor=white"/>
+      </td>
       <td align="center">
         <img src="https://img.shields.io/badge/Networking%20(CCNA)-92%25-1BA0D6?style=for-the-badge&logo=cisco&logoColor=white"/>
       </td>
@@ -133,7 +136,7 @@ My journey combines both software and hardware, and I love building projects tha
     </tr>
   </table>
 </p>
-### 🚀 Projects I've Built
+
 
 #### 🤖 AI & Data Science
 - Weather Prediction Model – Python, Machine Learning, Scikit-Learn
