@@ -159,17 +159,26 @@ My journey combines both software and hardware, and I love building projects tha
 
 ### 📈 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ks20220914-commits&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&icon_color=ff6b6b" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ks20220914-commits&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&layout=compact" width="48%" />
-</p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ks20220914-commits&theme=radical&hide_border=true&background=0d1117&stroke=ff6b6b&ring=ff6b6b&fire=ff6b6b" width="70%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ks20220914-commits&theme=radical&no-frame=true&no-bg=true&row=2&column=4" width="80%" />
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=ks20220914-commits&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ks20220914-commits&layout=compact&hide_border=true&title_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ks20220914-commits&hide_border=true&stroke=00bfbf&background=0d1117&ring=00bfbf&fire=00bfbf&currStreakNum=00bfbf&sideNums=00bfbf&currStreakLabel=00bfbf&sideLabels=00bfbf&dates=00bfbf" alt="GitHub Streak" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-profile-trophy.vercel.app/?username=ks20220914-commits&row=2&column=3&margin-w=15&margin-h=15&no-bg=true&no-frame=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9" alt="GitHub Trophies" />
+      </td>
+    </tr>
+  </table>
 </p>
 ---
 
