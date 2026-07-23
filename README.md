@@ -84,18 +84,31 @@ My journey combines both software and hardware, and I love building projects tha
 ---
 
 ### 📊 Skills Overview
+### 📊 Skills Overview
 
-| Skill Area | Level |
-|------------|-------|
-| Python Programming | ████████████████████ 85% |
-| C++ Programming | ██████████████████ 75% |
-| MATLAB | ████████████████ 70% |
-| Networking (CCNA) | ████████████████████ 90% |
-| IoT & Embedded Systems | ████████████████████ 85% |
-| Data Analysis | ██████████████████ 80% |
-| OOP & Data Structures | ██████████████████ 75% |
-| Cloud Computing | ████████████████ 65% |
-| AI & Machine Learning | ████████████████ 65% |
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-95%25-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=2d2d2d" />
+  <img src="https://img.shields.io/badge/C%2B%2B-88%25-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=2d2d2d" />
+  <img src="https://img.shields.io/badge/MATLAB-85%25-0076A8?style=for-the-badge&logo=mathworks&logoColor=white&labelColor=2d2d2d" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CCNA-92%25-1BA0D6?style=for-the-badge&logo=cisco&logoColor=white&labelColor=2d2d2d" />
+  <img src="https://img.shields.io/badge/IoT-90%25-FF6F00?style=for-the-badge&logo=arduino&logoColor=white&labelColor=2d2d2d" />
+  <img src="https://img.shields.io/badge/Data%20Analysis-88%25-2ECC71?style=for-the-badge&logo=pandas&logoColor=white&labelColor=2d2d2d" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OOP%20%26%20DSA-85%25-9B59B6?style=for-the-badge&logo=code&logoColor=white&labelColor=2d2d2d" />
+  <img src="https://img.shields.io/badge/Cloud-82%25-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=2d2d2d" />
+  <img src="https://img.shields.io/badge/AI%20%26%20ML-80%25-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=2d2d2d" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML%20%26%20CSS-90%25-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=2d2d2d" />
+  <img src="https://img.shields.io/badge/Excel-88%25-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white&labelColor=2d2d2d" />
+  <img src="https://img.shields.io/badge/Git-85%25-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=2d2d2d" />
+</p>
 
 ---
 
