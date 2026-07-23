@@ -137,17 +137,19 @@ My journey combines both software and hardware, and I love building projects tha
   </table>
 </p>
 
+#### 🚀 Projects I've Built
 
 #### 🤖 AI & Data Science
 - Weather Prediction Model – Python, Machine Learning, Scikit-Learn
 - Student Performance Analyzer – Data Analysis, Pandas, Visualization
 - Data Cleaning & Preprocessing Pipelines – Python, Pandas, NumPy
 
-#### 🌐 Networking
+#### 🌐 Networking & Mobile 
 - Cisco Router/Switch Automation Scripts – Python, Netmiko, SSH
 - Network Traffic Analyzer – Python, Wireshark, Packet Analysis
 - CCNA Lab Simulations – Cisco Packet Tracer
-
+- Mobile Network Analysis (2G-5G) – Mobile Networks, Packet Core, Netova
+- 
 #### 💡 IoT & Embedded Systems
 - Smart Home Automation – Arduino, Sensors, IoT Protocols
 - Temperature Monitoring System – Microcontrollers, C++, MATLAB
@@ -168,6 +170,7 @@ My journey combines both software and hardware, and I love building projects tha
 - ✅ CCNA – Cisco Networking Academy
 - ✅ Cisco Network Automation – Cisco Academy
 - ✅ DEPI Data Science & AI Track – DEPI Egypt
+- ✅ Mobile Package (2G, 3G, 4G, 5G) – Netova
 - ✅ Cloud Computing – Menara Training
 - ✅ Soft Skills – Certified
 - ✅ Freelance Skills – Certified
