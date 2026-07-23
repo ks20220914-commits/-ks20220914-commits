@@ -84,32 +84,55 @@ My journey combines both software and hardware, and I love building projects tha
 ---
 
 ### 📊 Skills Overview
-### 📊 Skills Overview
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-95%25-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=2d2d2d" />
-  <img src="https://img.shields.io/badge/C%2B%2B-88%25-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=2d2d2d" />
-  <img src="https://img.shields.io/badge/MATLAB-85%25-0076A8?style=for-the-badge&logo=mathworks&logoColor=white&labelColor=2d2d2d" />
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://progress-bar.dev/95/?title=Python&color=3776AB&width=180" />
+      </td>
+      <td align="center">
+        <img src="https://progress-bar.dev/88/?title=C%2B%2B&color=00599C&width=180" />
+      </td>
+      <td align="center">
+        <img src="https://progress-bar.dev/85/?title=MATLAB&color=0076A8&width=180" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://progress-bar.dev/92/?title=CCNA&color=1BA0D6&width=180" />
+      </td>
+      <td align="center">
+        <img src="https://progress-bar.dev/90/?title=IoT%20%26%20Embedded&color=FF6F00&width=180" />
+      </td>
+      <td align="center">
+        <img src="https://progress-bar.dev/88/?title=Data%20Analysis&color=2ECC71&width=180" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://progress-bar.dev/85/?title=OOP%20%26%20DSA&color=9B59B6&width=180" />
+      </td>
+      <td align="center">
+        <img src="https://progress-bar.dev/82/?title=Cloud%20Computing&color=4285F4&width=180" />
+      </td>
+      <td align="center">
+        <img src="https://progress-bar.dev/80/?title=AI%20%26%20ML&color=F7931E&width=180" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://progress-bar.dev/90/?title=HTML%20%26%20CSS&color=E34F26&width=180" />
+      </td>
+      <td align="center">
+        <img src="https://progress-bar.dev/88/?title=Excel&color=217346&width=180" />
+      </td>
+      <td align="center">
+        <img src="https://progress-bar.dev/85/?title=Git%20%26%20GitHub&color=F05032&width=180" />
+      </td>
+    </tr>
+  </table>
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/CCNA-92%25-1BA0D6?style=for-the-badge&logo=cisco&logoColor=white&labelColor=2d2d2d" />
-  <img src="https://img.shields.io/badge/IoT-90%25-FF6F00?style=for-the-badge&logo=arduino&logoColor=white&labelColor=2d2d2d" />
-  <img src="https://img.shields.io/badge/Data%20Analysis-88%25-2ECC71?style=for-the-badge&logo=pandas&logoColor=white&labelColor=2d2d2d" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/OOP%20%26%20DSA-85%25-9B59B6?style=for-the-badge&logo=code&logoColor=white&labelColor=2d2d2d" />
-  <img src="https://img.shields.io/badge/Cloud-82%25-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=2d2d2d" />
-  <img src="https://img.shields.io/badge/AI%20%26%20ML-80%25-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=2d2d2d" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML%20%26%20CSS-90%25-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=2d2d2d" />
-  <img src="https://img.shields.io/badge/Excel-88%25-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white&labelColor=2d2d2d" />
-  <img src="https://img.shields.io/badge/Git-85%25-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=2d2d2d" />
-</p>
-
 ---
 
 ### 🚀 Projects I've Built
