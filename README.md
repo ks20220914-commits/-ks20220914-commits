@@ -25,7 +25,38 @@
 </p>
 
 ---
-  
+<!-- About Me -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  About Me
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/📍-Cairo%2C%20Egypt-2E8B57?style=for-the-badge&logo=google-maps&logoColor=white" />
+  <img src="https://img.shields.io/badge/🎓-Engineering%20Student-FF6B6B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📊-Data%20Science-4ECDC4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🤖-AI%20Enthusiast-45B7D1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📡-Telecom%20Specialist-FFA94D?style=for-the-badge" />
+</p>
+
+<!-- كود Python تعريفي -->
+`python
+class KyrillosSaeed:
+    def init(self):
+        self.name = "Kyrillos Saeed Milad"
+        self.role = "Electronics & Communication Engineering Student"
+        self.location = "Cairo, Egypt"
+        self.university = "Faculty of Engineering, Cairo"
+        self.interests = ["Data Science", "AI", "IoT", "Networking", "Telecommunications"]
+        self.skills = ["Python", "C++", "MATLAB", "Data Analysis", "OOP", "Data Structures"]
+        self.goal = "Become a Data Scientist with strong engineering background"
+    
+    def say_hi(self):
+        print("Thanks for dropping by! Let's connect and build something amazing!")
+    
+    def dream(self):
+        return "🚀 Innovating the future with Data Science & AI"  
 
 
 
